@@ -1,8 +1,11 @@
 # Kate_Jan_20th_2019_CarnegieHall
 rally pics
 
-![DSC01060.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01060.JPG?raw=true"DSC01060.JPG")
 
+
+![DSC01281.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01281.JPG?raw=true"DSC01281.JPG")
+
+![DSC01060.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01060.JPG?raw=true"DSC01060.JPG")
 
 ![DSC01102.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01102.JPG?raw=true"DSC01102.JPG")
 ![DSC01152.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01152.JPG?raw=true"DSC01152.JPG")
