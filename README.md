@@ -2,7 +2,7 @@
 rally pics
 
 
-
+![DSC01500.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/01_21_2019/DSC01500.JPG?raw=true"DSC01500.JPG")
 ![DSC01281.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01281.JPG?raw=true"DSC01281.JPG")
 
 ![DSC01060.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01060.JPG?raw=true"DSC01060.JPG")
@@ -15,5 +15,9 @@ rally pics
 ![DSC01388.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01388.JPG?raw=true"DSC01388.JPG")
 ![DSC01389.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01389.JPG?raw=true"DSC01389.JPG")
 
-![DSC01497.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/01_21_2019/DSC01497?raw=true"DSC01497.JPG")
+
+
+
+
+
 
