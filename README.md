@@ -14,3 +14,6 @@ rally pics
 ![DSC01387.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01387.JPG?raw=true"DSC01387.JPG")
 ![DSC01388.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01388.JPG?raw=true"DSC01388.JPG")
 ![DSC01389.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/DSC01389.JPG?raw=true"DSC01389.JPG")
+
+![DSC01497.JPG](https://github.com/pydemo/Kate_Jan_20th_2019_CarnegieHall/blob/main/01_21_2019/DSC01497?raw=true"DSC01497.JPG")
+
